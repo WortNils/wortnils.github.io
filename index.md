@@ -13,3 +13,6 @@ family, a centuries-old line of trained bodyguards that form lifelong affiliatio
 * likes Holly Short
 * lacks coordination and athletic ability
 * employs a butler called Butler
+
+Artemis Fowl once said:
+> Butler could kill you a hundred different ways without use of his armoury. Though I'm sure one would be quite sufficient.
