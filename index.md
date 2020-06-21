@@ -6,3 +6,10 @@ his family, who have been criminals for generations. Artemis is cold, cynical, a
 of people for his own ends. The Fowls are a family of "legendary criminals" whose history dates back to at least the Norman
 Conquest that have amassed a fortune through both legitimate and illegitimate means. Working alongside the Fowls is a Butler
 family, a centuries-old line of trained bodyguards that form lifelong affiliations with members of the Fowl family.
+
+## Character Traits
+
+* intelligent
+* likes Holly Short
+* lacks coordination and athletic ability
+* employs a butler called Butler
