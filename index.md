@@ -16,3 +16,5 @@ family, a centuries-old line of trained bodyguards that form lifelong affiliatio
 
 Artemis Fowl once said:
 > Butler could kill you a hundred different ways without use of his armoury. Though I'm sure one would be quite sufficient.
+
+<img src="https://exlibris.azureedge.net/covers/9783/5480/6208/2/9783548062082xl.jpg"/>
